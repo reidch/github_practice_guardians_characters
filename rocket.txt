@@ -1,1 +1,2 @@
 feature : skill with weapons
+species : raccoon

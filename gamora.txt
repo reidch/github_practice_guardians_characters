@@ -1,1 +1,2 @@
 feature : assassin
+species : Zen-Whoberis

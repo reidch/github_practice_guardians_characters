@@ -1,1 +1,2 @@
 feature : regenerates
+species : Floral Colossus
